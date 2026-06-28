@@ -76,9 +76,9 @@ The system follows these steps:
 
 ## Team
 
-- Princy Nimmagadda
-- Jaikritha
 - Shreya Sardar
+- Jaikritha
+- Princy Nimmagadda
 - Uthkarsha
 
 ---
